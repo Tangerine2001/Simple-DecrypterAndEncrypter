@@ -1,0 +1,4 @@
+I was introduced to Caesar and Vigenere ciphers and decided to write a program using Visual Studio Forms for a more interactive method of 
+decrypting and encrypting plaintext. 
+
+**Caesar cipher decrypt gives all 26 possible combinations for solution in the case that the key is not known.**
